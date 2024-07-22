@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+*{
+	background-color:purple;
+}
+
+body{
+	background-color:red;
+}
+
+h1
+{
+	background-color:red;
+}
+div
+{
+	background-color:blue;
+}
+h1{
+	color:red;
+}
+.rojo
+{
+	background-color:blue;
+}
+button
+{
+	with:20px;
+}
